@@ -1,0 +1,4 @@
+D12 Mandi: partial. Cleartrip INR prices captured; Booking.com page only gave USD prices (not used).
+D23 Sanasar: no verifiable price. Holidify/CozyCozy pages show USD 'onwards' prices only, mostly Patnitop properties; AdaniOne PY Resorts price had no dates and looked boilerplate, so name only.
+D28 Ranjit Sagar Lake / Shahpur Kandi: no property located at the lake or Shahpur Kandi itself; only Pathankot city hotels found (Hotels.com), included with caveats.
+Booking.com property pages (Srinagar houseboats, Heritage Rose Inn) were blocked by a JavaScript/bot check; no HPTDC/JKTDC official tariff pages were found in search results.

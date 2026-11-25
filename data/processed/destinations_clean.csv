@@ -1,0 +1,31 @@
+destination_id,destination,state,reference_point,latitude,longitude,elevation_m,road_distance_km,travel_time_hrs,primary_type,rating,rating_count,recommended_days_min,recommended_days_max,best_months,data_notes
+D01,Dharamshala,Himachal Pradesh,Town centre (lower Dharamshala),32.2077,76.32278,1457,94,2.33,hill station,,,,,1|2|3|4|5|6|12,time converted from H.MM
+D02,McLeod Ganj,Himachal Pradesh,Town centre (Bhagsu Road square),32.238669,76.323567,2082,94,2.67,hill station,,,,,1|2|3|4|5|6|7|8|9|10|11|12,time converted from H.MM
+D03,Dalhousie,Himachal Pradesh,Town centre (Gandhi Chowk),32.5367,75.97591,1970,89,2.5,hill station,,,,,3|4|5|6,time converted from H.MM
+D04,Khajjiar,Himachal Pradesh,Khajjiar meadow,32.54764,76.05975,2000,101,3.17,hill station,,,,,3|4|5|6,time converted from H.MM
+D05,Chamba,Himachal Pradesh,Town centre (Chaugan),32.5544,76.1258,1006,108,3.43,historic town,,,,,4|5|6|7|8|9|10,time converted from H.MM
+D06,Kangra,Himachal Pradesh,Kangra town centre,32.11429,76.4518,733,115,,historic town,,,,,1|2|3|4|5|9|10|11|12,"time converted from H.MM; coordinates, distance and time under review"
+D07,Amritsar,Punjab,Golden Temple,31.621651,74.879795,234,112,2.17,city,,,,,10|11|12|1|2|3,time converted from H.MM
+D08,Jammu,Jammu & Kashmir,Jammu Tawi railway station,32.7056065,74.8770102,300,117,2.25,city,,,,,1|2|3|4|10|11|12,time converted from H.MM
+D09,Vaishno Devi,Jammu & Kashmir,Katra base,32.99059,74.93717,875,163,3.38,pilgrimage,,,,,1|2|3|4|10|11|12,time converted from H.MM
+D10,Bir Billing,Himachal Pradesh,Bir village (Billing take-off is above),32.0419,76.7203,1500,,,valley,,,,,3|4|5|9|10|11,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D11,Palampur,Himachal Pradesh,Town centre,32.1109,76.5363,1220,,,hill station,,,,,3|4|5|6|9|10|11,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D12,Mandi,Himachal Pradesh,Town centre (Indira Market),31.7088,76.932,800,,,historic town,,,,,4|5|6|7|8|9|10,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D13,Kullu,Himachal Pradesh,Town centre (Dhalpur),31.9592,77.1089,1280,,,valley,,,,,3|4|5|6,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D14,Manali,Himachal Pradesh,Town centre (Mall Road),32.2396,77.1887,2050,,,hill station,,,,,1|2|3|4|5|6|10|11|12,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D15,Kasol,Himachal Pradesh,Village centre (Parvati Valley),32.01,77.315,1640,,,valley,,,,,1|2|3|4|5|6|10|11|12,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D16,Kasauli,Himachal Pradesh,Mall Road,30.8989,76.9647,1900,,,hill station,,,,,4|5|6|9|10|11,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D17,Shimla,Himachal Pradesh,The Ridge,31.1048,77.1734,2205,,,hill station,,,,,3|4|5|6,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D18,Solan,Himachal Pradesh,Town centre,30.9045,77.0967,1550,,,city,,,,,3|4|5|6|7,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D19,Tirthan Valley,Himachal Pradesh,Gushaini (valley base),31.62,77.35,1500,,,valley,,,,,3|4|5|6,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D20,Spiti Valley,Himachal Pradesh,Kaza town (valley headquarters),32.2276,78.071,3650,,,valley,,,,,3|4|5|6,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D21,Chail,Himachal Pradesh,Chail village,30.9667,77.2,2250,,,hill station,,,,,4|5|6,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D22,Patnitop,Jammu & Kashmir,Patnitop plateau,33.087,75.33,2020,,,hill station,,,,,5|6|9|10,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D23,Sanasar,Jammu & Kashmir,Sanasar village (approximate),33.125,75.26,2050,,,hill station,,,,,5|6|9|10,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D24,Srinagar,Jammu & Kashmir,City centre (Lal Chowk),34.0837,74.7973,1585,,,city,,,,,4|5|6|7|8|9|10,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D25,Pahalgam,Jammu & Kashmir,Town centre,34.0161,75.315,2200,,,hill station,,,,,3|4|5|6|7|8|9|10|11,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D26,Anandpur Sahib,Punjab,Takht Sri Kesgarh Sahib,31.2393,76.5003,300,,,pilgrimage,,,,,1|2|11|12,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D27,Chandigarh,Chandigarh (UT),Sector 17 city centre,30.7333,76.7794,321,,,city,,,,,1|2|3|4|9|10|11|12,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D28,Ranjit Sagar Lake,Punjab,"Ranjit Sagar Dam, Shahpur Kandi (approximate)",32.445,75.717,528,,,lake,,,,,8|9,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D29,Jibhi,Himachal Pradesh,Jibhi village (Seraj valley),31.5951,77.3552,1550,,,valley,,,,,3|4|5|6,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).
+D30,Barot Valley,Himachal Pradesh,Barot village (Uhl river),32.03639,76.8475,1830,,,valley,,,,,,Added in the 30-destination expansion; mirrors destinations.csv. Road km and time are blank on purpose (see route_data.csv).

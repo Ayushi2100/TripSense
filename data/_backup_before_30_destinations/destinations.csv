@@ -1,0 +1,10 @@
+﻿destination_id,destination,state,reference_point,latitude,longitude,elevation_m,road_distance_km,travel_time_hrs,primary_type,rating,rating_count,recommended_days_min,recommended_days_max,best_months,data_notes
+D01,Dharamshala,Himachal Pradesh,Town centre (lower Dharamshala),32.2077,76.32278,1457,94,2.2,hill station,,,,,"1,2,3,4,5,6,12",travel_time_hrs entered as H.MM (hours.minutes); converted in processed/
+D02,McLeod Ganj,Himachal Pradesh,Town centre (Bhagsu Road square),32.238669,76.323567,2082,94,2.4,hill station,,,,,"1,2,3,4,5,6,7,8,9,10,11,12",travel_time_hrs entered as H.MM (hours.minutes); converted in processed/
+D03,Dalhousie,Himachal Pradesh,Town centre (Gandhi Chowk),32.5367,75.97591,1970,89,2.3,hill station,,,,,"3,4,5,6",travel_time_hrs entered as H.MM (hours.minutes); converted in processed/
+D04,Khajjiar,Himachal Pradesh,Khajjiar meadow,32.54764,76.05975,2000,101,3.1,hill station,,,,,"3,4,5,6",travel_time_hrs entered as H.MM (hours.minutes); converted in processed/
+D05,Chamba,Himachal Pradesh,Town centre (Chaugan),32.5544,76.1258,1006,108,3.26,historic town,,,,,"4,5,6,7,8,9,10",travel_time_hrs entered as H.MM (hours.minutes); converted in processed/
+D06,Kangra,Himachal Pradesh,Kangra town centre,32.11429,76.4518,733,115,3.7,historic town,,,,,"1,2,3,4,5,9,10,11,12","travel_time_hrs entered as H.MM (hours.minutes); converted in processed/; coordinates, distance and time under review"
+D07,Amritsar,Punjab,Golden Temple,31.621651,74.879795,234,112,2.1,city,,,,,"10,11,12,1,2,3",travel_time_hrs entered as H.MM (hours.minutes); converted in processed/
+D08,Jammu,Jammu & Kashmir,Jammu Tawi railway station,32.7056065,74.8770102,300,117,2.15,city,,,,,"1,2,3,4,10,11,12",travel_time_hrs entered as H.MM (hours.minutes); converted in processed/
+D09,Vaishno Devi,Jammu & Kashmir,Katra base,32.99059,74.93717,875,163,3.23,pilgrimage,,,,,"1,2,3,4,10,11,12",travel_time_hrs entered as H.MM (hours.minutes); converted in processed/

@@ -1,0 +1,19 @@
+﻿source_id,source_provider,source_scope,source_url,source_notes
+S001,MakeMyTrip,Dharamshala city listings,https://www.makemytrip.com/hotels/dharamshala-hotels.html,Property discovery; no city-wide starting price assigned to a specific property.
+S002,Booking.com,The Hosteller Dharamshala,https://www.booking.com/hotel/in/the-hosteller-dharamshala.html,Rates shown in USD for page-selected dates; no INR conversion.
+S003,Google business result,Hotel Bliss Valley,,Rating/review count only.
+S004,MakeMyTrip,McLeod Ganj budget listings,https://www.makemytrip.com/hotels/area-budget-hotels-in-mcleod_ganj-dharamshala.html,Named listings and displayed rates/taxes/reviews.
+S005,MakeMyTrip,Dalhousie hotel listings,https://www.makemytrip.com/hotels/dalhousie-hotels.html,Named listings and displayed rates/taxes/reviews.
+S006,Google business result,The Seasons Dalhousie,,Rating/review count only.
+S007,MakeMyTrip,Khajjiar hotel listings,https://www.makemytrip.com/hotels/khajjiar-hotels.html,Named listings; prices are date/occupancy dependent.
+S008,MakeMyTrip,Khajjiar local listings,https://www.makemytrip.com/hotels/hotels-in-khajjiar-khajjiar.html,Hotel Devdar listing and price snapshot.
+S009,MakeMyTrip,Chamba Himachal listings,https://www.makemytrip.com/hotels/chamba_himachal-hotels.html,Used Chamba Himachal listings; excluded similarly named Uttarakhand property.
+S010,MakeMyTrip,Chamba listings near Akhand Chandi Palace,https://www.makemytrip.com/hotels/chamba_himachal-hotels-near-akhand_chandi_palace.html,Hotel Irawati listing and displayed rate.
+S011,MakeMyTrip,Kangra hotel listings,https://www.makemytrip.com/hotels/kangra-hotels.html,Named listings and displayed rates/reviews.
+S012,MakeMyTrip,Kangra budget listings,https://www.makemytrip.com/hotels/budget-hotels-in-kangra.html,Bamboo Point listing; location caveat retained.
+S013,Google business result,Hotel Aura Grand,,Rating/review count only.
+S014,Google business result,Amritara Kirpa,,Rating/review count only.
+S015,MakeMyTrip,Amritsar budget market page,https://www.makemytrip.com/hotels/budget-hotels-in-amritsar.html,"Market starting price only, not a property-specific rate."
+S016,MakeMyTrip,Jammu hotel listings,https://www.makemytrip.com/hotels/jammu-hotels.html,Named listings and displayed rates/reviews.
+S017,MakeMyTrip,Katra hotel listings,https://www.makemytrip.com/hotels/katra-hotels.html,Named listings and displayed rates/reviews.
+S018,MakeMyTrip,Hotel Aura Grand property detail page,https://www.makemytrip.com/hotels/hotel_aura_grand-details-amritsar.html,"Room-only rate â‚¹1,600 + â‚¹80 taxes/fees was visible for a past selected date; stored as a dated historical observation, not a current quote."

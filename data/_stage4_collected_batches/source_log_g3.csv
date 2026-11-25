@@ -1,0 +1,36 @@
+destination_id,column_name,source,url,date_collected,is_estimate,notes
+D22,weather,Wikipedia (Udhampur proxy),https://en.wikipedia.org/wiki/Udhampur,2026-11-22,FALSE,Proxy town
+D22,attractions,Incredible India / Jammu Tourism,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop,2026-11-22,TRUE,Visit times estimated
+D22,activities,Incredible India / Jammu Tourism,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop,2026-11-22,TRUE,Durations estimated
+D22,transportation,Incredible India,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop,2026-11-22,FALSE,
+D23,weather,Wikipedia (Udhampur proxy),https://en.wikipedia.org/wiki/Udhampur,2026-11-22,FALSE,Proxy town
+D23,attractions,Rural Tourism / Jammu Tourism,https://rural.tourism.gov.in/Sanasar-destination.html,2026-11-22,TRUE,Visit times estimated
+D23,activities,Jammu Tourism / Rural Tourism,https://www.jammutourism.gov.in/exploreJammu-PatniTop-Sanasar.html,2026-11-22,TRUE,Durations estimated
+D23,transportation,Rural Tourism,https://rural.tourism.gov.in/Sanasar-destination.html,2026-11-22,FALSE,
+D24,weather,Wikipedia (IMD),https://en.wikipedia.org/wiki/Srinagar,2026-11-22,FALSE,
+D24,attractions,Incredible India,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar,2026-11-22,TRUE,Visit times estimated
+D24,activities,Incredible India,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar,2026-11-22,TRUE,Durations estimated
+D24,transportation,Incredible India,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar,2026-11-22,FALSE,
+D25,weather,Wikipedia (IMD),https://en.wikipedia.org/wiki/Pahalgam,2026-11-22,FALSE,
+D25,attractions,Incredible India,https://prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/pahalgam.html,2026-11-22,TRUE,Visit times estimated
+D25,activities,Incredible India,https://prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/pahalgam.html,2026-11-22,TRUE,Durations estimated
+D26,weather,Wikipedia Chandigarh (proxy),https://en.wikipedia.org/wiki/Chandigarh,2026-11-22,FALSE,Proxy town
+D27,weather,Wikipedia (IMD),https://en.wikipedia.org/wiki/Chandigarh,2026-11-22,FALSE,
+D28,weather,Wikipedia Pathankot (proxy),https://en.wikipedia.org/wiki/Pathankot,2026-11-22,FALSE,Proxy town; no period stated
+D24,transportation,MapsofIndia,https://www.mapsofindia.com/srinagar/travel-to-srinagar.html,2026-11-22,FALSE,Second source
+D25,transportation,MapsofIndia,https://www.mapsofindia.com/jammu-kashmir/travel-to-pahalgam.html,2026-11-22,FALSE,
+D26,attractions,Punjab Tourism / Rupnagar district,https://punjabtourism.punjab.gov.in/anandpur-sahib-fort.php,2026-11-22,TRUE,Visit times estimated
+D27,attractions,Chandigarh Tourism,https://chandigarhtourism.gov.in/pages/page/pocketfriendlytourism,2026-11-22,TRUE,Visit times estimated; fees stated by official page
+D26,activities,Outlook Traveller,https://www.outlooktraveller.com/amp/story/destinations/india/quick-guide-anandpur-sahib-punjab,2026-11-22,TRUE,Durations estimated
+D26,transportation,Outlook Traveller,https://www.outlooktraveller.com/amp/story/destinations/india/quick-guide-anandpur-sahib-punjab,2026-11-22,FALSE,2015 article
+D26,accommodation,Outlook Traveller,https://www.outlooktraveller.com/amp/story/destinations/india/quick-guide-anandpur-sahib-punjab,2026-11-22,FALSE,2015 article tariffs
+D26,route_claims,Outlook Traveller,https://www.outlooktraveller.com/amp/story/destinations/india/quick-guide-anandpur-sahib-punjab,2026-11-22,FALSE,
+D27,activities,Chandigarh Tourism / Ministry of Tourism,https://chandigarhtourism.gov.in/pages/page/pocketfriendlytourism,2026-11-22,TRUE,Durations estimated
+D27,transportation,Chandigarh Tourism,https://chandigarhtourism.gov.in/pages/fullpage/how_to_reach,2026-11-22,FALSE,
+D27,route_claims,Chandigarh Tourism,https://chandigarhtourism.gov.in/pages/fullpage/how_to_reach,2026-11-22,FALSE,
+D28,attractions,Punjab Wildlife Dept / Pathankot district,https://wildlife.punjab.gov.in/tourism_page/5/protected-area-detail/10019,2026-11-22,TRUE,Visit times estimated
+D28,activities,Punjab Wildlife Dept / Pathankot district,https://wildlife.punjab.gov.in/tourism_page/5/protected-area-detail/10019,2026-11-22,TRUE,Durations estimated
+D28,transportation,Punjab Wildlife Dept,https://wildlife.punjab.gov.in/tourism_page/5/protected-area-detail/10019,2026-11-22,FALSE,
+D28,route_claims,Punjab Wildlife Dept / Pathankot district,https://wildlife.punjab.gov.in/tourism_page/5/protected-area-detail/10019,2026-11-22,FALSE,
+D27,accommodation,Cleartrip,https://www.cleartrip.com/hotels/india/chandigarh/budget-hotels/,2026-11-22,FALSE,Market range
+D25,accommodation,TravelTriangle,https://traveltriangle.com/hotels/pahalgam-jk,2026-11-22,FALSE,Ambiguous prices left blank

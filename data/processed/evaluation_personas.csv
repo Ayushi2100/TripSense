@@ -1,0 +1,16 @@
+origin_id,persona,top_3,expected_any_of,expectation_met,n_excluded
+O01,Pilgrim family (October),"Vaishno Devi, McLeod Ganj, Ranjit Sagar Lake",Vaishno Devi,True,16
+O01,Nature and trek couple (May),"Dalhousie, Dharamshala, Ranjit Sagar Lake","Dalhousie, Khajjiar",True,17
+O01,Culture seekers (April),"McLeod Ganj, Amritsar, Dharamshala",McLeod Ganj,True,17
+O01,History buffs (November),"Jammu, Amritsar, Dharamshala","Amritsar, Chamba, Kangra, Jammu",True,17
+O01,Tight budget solo (June),"Dharamshala, Dalhousie, Palampur",(expectations apply to Pathankot only),,17
+O02,Pilgrim family (October),"Anandpur Sahib, Shimla, Kasauli",(expectations apply to Pathankot only),,13
+O02,Nature and trek couple (May),"Chail, Palampur, Kasauli",(expectations apply to Pathankot only),,13
+O02,Culture seekers (April),"Solan, Shimla, Anandpur Sahib",(expectations apply to Pathankot only),,13
+O02,History buffs (November),"Anandpur Sahib, Shimla, Amritsar",(expectations apply to Pathankot only),,13
+O02,Tight budget solo (June),"Chail, Solan, Shimla",(expectations apply to Pathankot only),,14
+O03,Pilgrim family (October),"Shimla, Anandpur Sahib, Mandi",(expectations apply to Pathankot only),,7
+O03,Nature and trek couple (May),"Chail, Shimla, Kasauli",(expectations apply to Pathankot only),,23
+O03,Culture seekers (April),"Chandigarh, Shimla, McLeod Ganj",(expectations apply to Pathankot only),,13
+O03,History buffs (November),"Chandigarh, Anandpur Sahib, Amritsar",(expectations apply to Pathankot only),,13
+O03,Tight budget solo (June),"Shimla, Chail, Chandigarh",(expectations apply to Pathankot only),,21

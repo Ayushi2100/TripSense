@@ -1,0 +1,334 @@
+destination_id,column_name,source,url,date_collected,is_estimate,notes
+D01,latitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D01,longitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D01,elevation_m,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D01,road_distance_km,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D01,travel_time_hrs,Author manual entry (original source not yet specified),,2026-10-02,TRUE,Entered as H.MM; see processed/
+D01,best_months,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D02,latitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D02,longitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D02,elevation_m,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D02,road_distance_km,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D02,travel_time_hrs,Author manual entry (original source not yet specified),,2026-10-02,TRUE,Entered as H.MM; see processed/
+D02,best_months,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D03,latitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D03,longitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D03,elevation_m,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D03,road_distance_km,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D03,travel_time_hrs,Author manual entry (original source not yet specified),,2026-10-02,TRUE,Entered as H.MM; see processed/
+D03,best_months,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D04,latitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D04,longitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D04,elevation_m,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D04,road_distance_km,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D04,travel_time_hrs,Author manual entry (original source not yet specified),,2026-10-02,TRUE,Entered as H.MM; see processed/
+D04,best_months,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D05,latitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D05,longitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D05,elevation_m,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D05,road_distance_km,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D05,travel_time_hrs,Author manual entry (original source not yet specified),,2026-10-02,TRUE,Entered as H.MM; see processed/
+D05,best_months,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D06,latitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D06,longitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D06,elevation_m,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D06,road_distance_km,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D06,travel_time_hrs,Author manual entry (original source not yet specified),,2026-10-02,TRUE,Entered as H.MM; see processed/
+D06,best_months,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D07,latitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D07,longitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D07,elevation_m,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D07,road_distance_km,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D07,travel_time_hrs,Author manual entry (original source not yet specified),,2026-10-02,TRUE,Entered as H.MM; see processed/
+D07,best_months,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D08,latitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D08,longitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D08,elevation_m,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D08,road_distance_km,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D08,travel_time_hrs,Author manual entry (original source not yet specified),,2026-10-02,TRUE,Entered as H.MM; see processed/
+D08,best_months,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D09,latitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D09,longitude,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D09,elevation_m,Author manual entry (original source not yet specified),,2026-10-02,FALSE,
+D09,road_distance_km,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D09,travel_time_hrs,Author manual entry (original source not yet specified),,2026-10-02,TRUE,Entered as H.MM; see processed/
+D09,best_months,Author manual entry (original source not yet specified),,2026-10-02,TRUE,
+D10,weather,nomad.watch (Open-Meteo),https://nomad.watch/cities/IN/bir-billing/climate,2026-11-22,FALSE,"modelled averages, period not stated"
+D10,attractions,Incredible India,https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra/bir-billing,2026-11-22,TRUE,visit times estimated
+D10,activities,Incredible India,https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra/bir-billing,2026-11-22,TRUE,durations estimated
+D10,transportation,Incredible India,https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra/bir-billing,2026-11-22,FALSE,
+D11,weather,Wikipedia,"https://en.wikipedia.org/wiki/Palampur,_Himachal_Pradesh",2026-11-22,FALSE,period not stated
+D11,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/palampur/,2026-11-22,TRUE,visit times estimated
+D11,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/palampur/,2026-11-22,TRUE,durations estimated
+D11,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/palampur/,2026-11-22,FALSE,
+D12,weather,Wikipedia (IMD 1991-2020),"https://en.wikipedia.org/wiki/Mandi,_Himachal_Pradesh",2026-11-22,FALSE,
+D12,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/mandi/,2026-11-22,TRUE,visit times estimated
+D12,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/mandi/,2026-11-22,TRUE,durations estimated
+D12,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/mandi/,2026-11-22,FALSE,
+D13,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,visit times estimated
+D13,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,durations estimated
+D13,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,FALSE,
+D14,weather,climatestotravel.com,https://climatestotravel.com/climate/india/manali,2026-11-22,FALSE,
+D14,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/manali/,2026-11-22,TRUE,visit times estimated
+D14,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/manali/,2026-11-22,TRUE,durations estimated
+D14,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/manali/,2026-11-22,FALSE,
+D15,weather,Wikipedia (Climate-Data.org),https://en.wikipedia.org/wiki/Kasol,2026-11-22,FALSE,period not stated; conflicts with another Climate-Data page
+D15,attractions,Himachal Tourism / Eco-Tourism,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,visit times estimated
+D15,activities,Himachal Tourism / Wikipedia,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,durations estimated
+D15,transportation,Wikipedia,https://en.wikipedia.org/wiki/Kasol,2026-11-22,FALSE,
+D29,attractions,Himachal Tourism / MakeMyTrip,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,visit times estimated
+D29,activities,Himachal Tourism / MakeMyTrip,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,durations estimated
+D29,accommodation,MakeMyTrip travel guide,https://www.makemytrip.com/tripideas/places-to-visit-in-jibhi,2026-11-22,FALSE,starting prices only
+D29,transportation,Great Himalayan National Park site,https://greathimalayannationalpark.org/?p=43,2026-11-22,FALSE,"gateway figures, not Jibhi itself"
+D17,weather,Wikipedia (Shimla climate box),https://en.wikipedia.org/wiki/Shimla,2026-11-22,FALSE,1991-2020 normals; mean temperature not given.
+D16,attractions,Incredible India / Himachal Tourism / District Solan,https://www.incredibleindia.gov.in/en/himachal-pradesh/kasauli,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D16,activities,Incredible India / Himachal Tourism,https://www.incredibleindia.gov.in/en/himachal-pradesh/kasauli,2026-11-22,TRUE,Durations are estimates; costs blank.
+D16,transportation,Incredible India,https://www.incredibleindia.gov.in/en/himachal-pradesh/kasauli,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D17,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/shimla/,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D17,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/shimla/,2026-11-22,TRUE,Durations are estimates; costs blank.
+D17,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/shimla/,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D18,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D18,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,TRUE,Durations are estimates; costs blank.
+D18,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D19,attractions,Incredible India / Outlook Traveller,https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu/great-himalayan-national-park,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D19,activities,Outlook Traveller / Incredible India,https://www.outlookindia.com/traveller/ot-getaway-guides/tirthan-valley-blessed-nature,2026-11-22,TRUE,Durations are estimates; costs blank.
+D19,transportation,Great Himalayan National Park official site,https://greathimalayannationalpark.org/?p=43,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D20,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/spiti-valley/,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D20,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/spiti-valley/,2026-11-22,TRUE,Durations are estimates; costs blank.
+D20,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/spiti-valley/,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D21,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D21,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,TRUE,Durations are estimates; costs blank.
+D21,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D30,attractions,HP Ecotourism / District Mandi,https://himachalecotourism.hp.gov.in/Barot,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D30,activities,District Mandi (NIC),https://hpmandi.nic.in/?p=26287,2026-11-22,TRUE,Durations are estimates; costs blank.
+D30,transportation,District Mandi (NIC),https://hpmandi.nic.in/?p=26287,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D17,accommodation,ixigo,https://www.ixigo.com/hotels/budget-hotels-in-shimla,2026-11-22,FALSE,Platform listing snapshot / market-level figure; date dependent.
+D20,accommodation,ixigo,https://www.ixigo.com/hotels/hotels-in-kaza,2026-11-22,FALSE,Platform listing snapshot / market-level figure; date dependent.
+D30,accommodation,Expedia India,https://www.Expedia.co.in/Barot-Hotels.d553248635964830675.Travel-Guide-Hotels,2026-11-22,FALSE,Platform listing snapshot / market-level figure; date dependent.
+D19,accommodation,Hotels.com,https://in.hotels.com/de12479594/hotels-in-gushaini-india,2026-11-22,FALSE,Platform listing snapshot / market-level figure; date dependent.
+D16,accommodation,ixigo,https://www.ixigo.com/hotels/5-star-hotels-in-kasauli,2026-11-22,FALSE,Platform listing snapshot / market-level figure; date dependent.
+D16,route_claims,see source_url,https://www.incredibleindia.gov.in/en/himachal-pradesh/kasauli,2026-11-22,FALSE,Stated distance/time only.
+D18,route_claims,see source_url,https://himachaltourism.gov.in/destination/solan/,2026-11-22,FALSE,Stated distance/time only.
+D18,route_claims,see source_url,https://himachaltourism.gov.in/destination/solan/,2026-11-22,FALSE,Stated distance/time only.
+D19,route_claims,see source_url,https://greathimalayannationalpark.org/?p=43,2026-11-22,FALSE,Stated distance/time only.
+D22,weather,Wikipedia (Udhampur proxy),https://en.wikipedia.org/wiki/Udhampur,2026-11-22,FALSE,Proxy town
+D22,attractions,Incredible India / Jammu Tourism,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop,2026-11-22,TRUE,Visit times estimated
+D22,activities,Incredible India / Jammu Tourism,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop,2026-11-22,TRUE,Durations estimated
+D22,transportation,Incredible India,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop,2026-11-22,FALSE,
+D23,weather,Wikipedia (Udhampur proxy),https://en.wikipedia.org/wiki/Udhampur,2026-11-22,FALSE,Proxy town
+D23,attractions,Rural Tourism / Jammu Tourism,https://rural.tourism.gov.in/Sanasar-destination.html,2026-11-22,TRUE,Visit times estimated
+D23,activities,Jammu Tourism / Rural Tourism,https://www.jammutourism.gov.in/exploreJammu-PatniTop-Sanasar.html,2026-11-22,TRUE,Durations estimated
+D23,transportation,Rural Tourism,https://rural.tourism.gov.in/Sanasar-destination.html,2026-11-22,FALSE,
+D24,weather,Wikipedia (IMD),https://en.wikipedia.org/wiki/Srinagar,2026-11-22,FALSE,
+D24,attractions,Incredible India,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar,2026-11-22,TRUE,Visit times estimated
+D24,activities,Incredible India,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar,2026-11-22,TRUE,Durations estimated
+D24,transportation,Incredible India,https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar,2026-11-22,FALSE,
+D25,weather,Wikipedia (IMD),https://en.wikipedia.org/wiki/Pahalgam,2026-11-22,FALSE,
+D25,attractions,Incredible India,https://prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/pahalgam.html,2026-11-22,TRUE,Visit times estimated
+D25,activities,Incredible India,https://prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/pahalgam.html,2026-11-22,TRUE,Durations estimated
+D26,weather,Wikipedia Chandigarh (proxy),https://en.wikipedia.org/wiki/Chandigarh,2026-11-22,FALSE,Proxy town
+D27,weather,Wikipedia (IMD),https://en.wikipedia.org/wiki/Chandigarh,2026-11-22,FALSE,
+D28,weather,Wikipedia Pathankot (proxy),https://en.wikipedia.org/wiki/Pathankot,2026-11-22,FALSE,Proxy town; no period stated
+D24,transportation,MapsofIndia,https://www.mapsofindia.com/srinagar/travel-to-srinagar.html,2026-11-22,FALSE,Second source
+D25,transportation,MapsofIndia,https://www.mapsofindia.com/jammu-kashmir/travel-to-pahalgam.html,2026-11-22,FALSE,
+D26,attractions,Punjab Tourism / Rupnagar district,https://punjabtourism.punjab.gov.in/anandpur-sahib-fort.php,2026-11-22,TRUE,Visit times estimated
+D27,attractions,Chandigarh Tourism,https://chandigarhtourism.gov.in/pages/page/pocketfriendlytourism,2026-11-22,TRUE,Visit times estimated; fees stated by official page
+D26,activities,Outlook Traveller,https://www.outlooktraveller.com/amp/story/destinations/india/quick-guide-anandpur-sahib-punjab,2026-11-22,TRUE,Durations estimated
+D26,transportation,Outlook Traveller,https://www.outlooktraveller.com/amp/story/destinations/india/quick-guide-anandpur-sahib-punjab,2026-11-22,FALSE,2015 article
+D26,accommodation,Outlook Traveller,https://www.outlooktraveller.com/amp/story/destinations/india/quick-guide-anandpur-sahib-punjab,2026-11-22,FALSE,2015 article tariffs
+D26,route_claims,Outlook Traveller,https://www.outlooktraveller.com/amp/story/destinations/india/quick-guide-anandpur-sahib-punjab,2026-11-22,FALSE,
+D27,activities,Chandigarh Tourism / Ministry of Tourism,https://chandigarhtourism.gov.in/pages/page/pocketfriendlytourism,2026-11-22,TRUE,Durations estimated
+D27,transportation,Chandigarh Tourism,https://chandigarhtourism.gov.in/pages/fullpage/how_to_reach,2026-11-22,FALSE,
+D27,route_claims,Chandigarh Tourism,https://chandigarhtourism.gov.in/pages/fullpage/how_to_reach,2026-11-22,FALSE,
+D28,attractions,Punjab Wildlife Dept / Pathankot district,https://wildlife.punjab.gov.in/tourism_page/5/protected-area-detail/10019,2026-11-22,TRUE,Visit times estimated
+D28,activities,Punjab Wildlife Dept / Pathankot district,https://wildlife.punjab.gov.in/tourism_page/5/protected-area-detail/10019,2026-11-22,TRUE,Durations estimated
+D28,transportation,Punjab Wildlife Dept,https://wildlife.punjab.gov.in/tourism_page/5/protected-area-detail/10019,2026-11-22,FALSE,
+D28,route_claims,Punjab Wildlife Dept / Pathankot district,https://wildlife.punjab.gov.in/tourism_page/5/protected-area-detail/10019,2026-11-22,FALSE,
+D27,accommodation,Cleartrip,https://www.cleartrip.com/hotels/india/chandigarh/budget-hotels/,2026-11-22,FALSE,Market range
+D25,accommodation,TravelTriangle,https://traveltriangle.com/hotels/pahalgam-jk,2026-11-22,FALSE,Ambiguous prices left blank
+D10,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D10,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D10,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D10,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D11,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D11,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D11,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D11,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D12,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D12,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D12,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D12,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D13,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D13,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D13,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D13,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D14,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D14,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D14,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D14,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D15,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D15,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D15,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D15,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D16,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D16,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D16,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D16,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D17,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D17,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D17,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D17,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D18,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D18,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D18,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D18,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D19,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D19,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D19,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D19,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D20,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D20,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D20,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D20,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D21,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D21,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D21,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D21,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D22,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D22,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D22,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D22,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D23,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D23,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D23,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D23,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D24,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D24,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D24,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D24,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D25,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D25,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D25,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D25,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D26,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D26,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D26,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D26,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D27,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D27,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D27,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D27,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D28,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D28,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D28,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D28,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D29,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D29,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D29,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D29,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+D30,latitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D30,longitude,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D30,elevation_m,"Assistant general knowledge (approximate, not from a cited page)",,2026-11-22,TRUE,Verify against OpenStreetMap or an official source
+D30,primary_type,Assistant classification,,2026-11-22,TRUE,"One of: hill station, historic town, city, pilgrimage, valley, lake"
+O01,origin_locations,Assistant general knowledge (approximate city-centre coordinates),,2026-11-22,TRUE,data/raw/origin_locations.csv
+O02,origin_locations,Assistant general knowledge (approximate city-centre coordinates),,2026-11-22,TRUE,data/raw/origin_locations.csv
+O03,origin_locations,Assistant general knowledge (approximate city-centre coordinates),,2026-11-22,TRUE,data/raw/origin_locations.csv
+ALL,route_data,See route_source and data_quality columns in route_data.csv,,2026-11-22,TRUE,67 of 90 routes are estimates; 13 copy a source-stated road km; 9 are the author's own Pathankot entries
+D10,accommodation,ixigo,https://www.ixigo.com/hotels/5-star-hotels-in-bir,2026-11-23,TRUE,Market-level 'starting from' figure quoted in notes only
+D11,accommodation,ixigo,https://www.ixigo.com/hotels/hotels-in-palampur,2026-11-23,TRUE,Market-level 'starting from' figure quoted in notes only
+D13,accommodation,ixigo,https://www.ixigo.com/hotels/hotels-in-kullu,2026-11-23,TRUE,Market-level 'starting from' figure quoted in notes only
+D14,accommodation,ixigo,https://www.ixigo.com/hotels/budget-hotels-in-manali,2026-11-23,TRUE,Market-level 'starting from' figure quoted in notes only
+D15,accommodation,OYO Rooms,https://www.oyorooms.com/hotels-in-kasol/,2026-11-23,TRUE,Market-level 'starting from' figure quoted in notes only
+D13,weather,Proxy: Manali climate table (see weather.csv source_url),https://climatestotravel.com/climate/india/manali,2026-11-23,TRUE,"Nearby-place proxy, not destination data; flagged is_proxy_data=True"
+D19,weather,Proxy: Manali climate table (see weather.csv source_url),https://climatestotravel.com/climate/india/manali,2026-11-23,TRUE,"Nearby-place proxy, not destination data; flagged is_proxy_data=True"
+D29,weather,Proxy: Manali climate table (see weather.csv source_url),https://climatestotravel.com/climate/india/manali,2026-11-23,TRUE,"Nearby-place proxy, not destination data; flagged is_proxy_data=True"
+D30,weather,Proxy: Manali climate table (see weather.csv source_url),https://climatestotravel.com/climate/india/manali,2026-11-23,TRUE,"Nearby-place proxy, not destination data; flagged is_proxy_data=True"
+D16,weather,Proxy: Shimla climate table (see weather.csv source_url),https://en.wikipedia.org/wiki/Shimla,2026-11-23,TRUE,"Nearby-place proxy, not destination data; flagged is_proxy_data=True"
+D18,weather,Proxy: Shimla climate table (see weather.csv source_url),https://en.wikipedia.org/wiki/Shimla,2026-11-23,TRUE,"Nearby-place proxy, not destination data; flagged is_proxy_data=True"
+D21,weather,Proxy: Shimla climate table (see weather.csv source_url),https://en.wikipedia.org/wiki/Shimla,2026-11-23,TRUE,"Nearby-place proxy, not destination data; flagged is_proxy_data=True"
+D20,weather,Proxy: climatestotravel.com Leh table,https://climatestotravel.com/climate/india/leh,2026-11-23,TRUE,Leh proxy for Spiti; rainfall understated vs Kaza annual ~655 mm
+D10,best_months,Holidify,https://holidify.com/places/bir/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: The best time to visit Bir Billing is from March to May and from late September to November.
+D11,best_months,Holidify,https://www.holidify.com/places/palampur/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: The best time to visit Palampur is from March to June and September to November.
+D13,best_months,Holidify,https://www.holidify.com/places/kullu/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: The best time to visit Kullu is from March to June.
+D14,best_months,Holidify,https://www.holidify.com/places/manali/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: The best time to visit Manali is from March to June and October to February.
+D17,best_months,Holidify,https://www.holidify.com/places/shimla/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: The best time to visit Shimla is between March to June
+D20,best_months,Holidify,https://www.holidify.com/places/spiti/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: The best time to visit Spiti is from March to June.
+D27,best_months,Chandigarh Tourism (official),https://chandigarhtourism.gov.in/page/best-time-to-visit,2026-11-23,FALSE,Page-stated: the best to visit Chandigarh is from September to April.
+D15,best_months,Holidify,https://www.holidify.com/places/kasol/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: October to June is the best time to visit Kasol as the weather remains pleasant.
+D16,best_months,Holidify,https://www.holidify.com/places/kasauli/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: The best time to visit Kasauli is from April to June and then again from September to November.
+D12,best_months,Holidify,https://holidify.com/places/mandi/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: Best Time: April to October
+D19,best_months,Holidify,https://www.holidify.com/places/tirthan-valley/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: The best time to visit the mesmerising valley of Tirthan is between March and June.
+D21,best_months,Holidify,https://www.holidify.com/places/chail/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: Summer from April to June is considered as the best time to visit Chail.
+D22,best_months,Holidify,https://www.holidify.com/places/patnitop/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: the best time to visit Patnitop is summers during May-June and in autumn (September-October).
+D23,best_months,Holidify,https://holidify.com/places/sanasar/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: The best time to visit Sanasar is during May-June and September to October.
+D26,best_months,Holidify,https://holidify.com/places/anandpur-sahib/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: Best Time: November to February
+D29,best_months,Holidify,https://holidify.com/places/jibhi/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: The best time to visit Jibhi is from March to June
+D18,best_months,Holidify,https://www.holidify.com/places/solan/best-time-to-visit.html,2026-11-23,FALSE,Page-stated: The best time to visit Solan is in Summers from March to July.
+D21,route:Chandigarh,Route page(s) via search,https://www.trivenicabs.in/travel-by-car/chandigarh-to-chail,2026-11-23,FALSE,upgraded to source_reported: 110 km
+D16,route:Chandigarh,Route page(s) via search,https://www.trivenicabs.in/distance/chandigarh-to-kasauli,2026-11-23,FALSE,annotated only: 57 km
+D13,route:Chandigarh,Route page(s) via search,https://www.holidify.com/places/kullu/how-to-reach/chandigarh-to-kullu-997.html,2026-11-23,FALSE,annotated only: 266/269 km
+D14,route:Chandigarh,Route page(s) via search,https://www.holidify.com/places/manali/how-to-reach/chandigarh-to-manali-1101.html,2026-11-23,FALSE,annotated only: 309 km
+D12,route:Chandigarh,Route page(s) via search,https://www.zingbus.com/distance/distance-from-chandigarh-to-mandi,2026-11-23,FALSE,upgraded to source_reported: 205 km
+D11,route:Chandigarh,Route page(s) via search,https://zingbus.com/distance/distance-from-chandigarh-to-palampur,2026-11-23,FALSE,upgraded to source_reported: 221 km
+D17,route:Chandigarh,Route page(s) via search,https://www.holidify.com/places/shimla/how-to-reach/chandigarh-to-shimla-1546.html,2026-11-23,FALSE,upgraded to source_reported: 114 km
+D18,route:Chandigarh,Route page(s) via search,https://traveltriangle.com/himachal-tourism/solan/how-to-reach-from-chandigarh,2026-11-23,FALSE,annotated only: 67/74 km
+D24,route:Chandigarh,Route page(s) via search,https://www.holidify.com/places/srinagar/how-to-reach/chandigarh-to-srinagar-1623.html,2026-11-23,FALSE,upgraded to source_reported: 594 km
+D27,route:Delhi,Route page(s) via search,https://www.holidify.com/places/chandigarh/how-to-reach/delhi-to-chandigarh-314.html,2026-11-23,FALSE,annotated only: 245 km
+D16,route:Delhi,Route page(s) via search,https://himachal.exploreindia.in/delhi-to-kasauli.htm,2026-11-23,FALSE,upgraded to source_reported: 287 km
+D13,route:Delhi,Route page(s) via search,https://www.holidify.com/places/kullu/how-to-reach/delhi-to-kullu-1000.html,2026-11-23,FALSE,annotated only: 498 km
+D14,route:Delhi,Route page(s) via search,https://www.holidify.com/places/manali/how-to-reach/delhi-to-manali-1106.html,2026-11-23,FALSE,annotated only: 537 km
+D11,route:Delhi,Route page(s) via search,https://www.zingbus.com/distance/distance-from-delhi-to-palampur,2026-11-23,FALSE,upgraded to source_reported: 485 km
+D17,route:Delhi,Route page(s) via search,https://www.holidify.com/places/shimla/how-to-reach/delhi-to-shimla-1550.html,2026-11-23,FALSE,upgraded to source_reported: 344 km
+D24,route:Delhi,Route page(s) via search,https://www.holidify.com/places/srinagar/how-to-reach/delhi-to-srinagar-1627.html,2026-11-23,FALSE,upgraded to source_reported: 839 km
+D27,route:Pathankot,Route page(s) via search,https://www.holidify.com/places/pathankot/how-to-reach/chandigarh-to-pathankot-1367.html,2026-11-23,FALSE,annotated only: 235 km
+D14,route:Pathankot,Route page(s) via search,https://www.holidify.com/places/pathankot/how-to-reach/manali-to-pathankot-1376.html,2026-11-23,FALSE,annotated only: 313/370 km
+D11,route:Pathankot,Route page(s) via search,https://cabbazar.com/taxi/cab/palampur-to-pathankot,2026-11-23,FALSE,upgraded to source_reported: 112 km
+D24,route:Pathankot,Route page(s) via search,https://www.goibibo.com/flights/pathankot-to-srinagar-distance/,2026-11-23,FALSE,upgraded to source_reported: 332 km
+D12,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-mandi-himachal-pradesh-india-mandi,2026-11-23,FALSE,Hotel Mandi Heights; price as listed on page
+D12,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-mandi-himachal-pradesh-india-mandi,2026-11-23,FALSE,Munish Resorts; price as listed on page
+D12,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-mandi-himachal-pradesh-india-mandi,2026-11-23,FALSE,Abhilashi Inn; price as listed on page
+D12,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-mandi-himachal-pradesh-india-mandi,2026-11-23,FALSE,Hotel Valley View; price as listed on page
+D18,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-solan-himachal-pradesh-india-solan,2026-11-23,FALSE,Pine Drive Resort; price as listed on page
+D18,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-solan-himachal-pradesh-india-solan,2026-11-23,FALSE,Hotel Namastasya; price as listed on page
+D18,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-solan-himachal-pradesh-india-solan,2026-11-23,FALSE,Hotel Himanis Resorts; price as listed on page
+D18,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-solan-himachal-pradesh-india-solan,2026-11-23,FALSE,Mayur Hotel Bar And Restaurant; price as listed on page
+D21,accommodation,Expedia India,https://www.expedia.co.in/Shimla-Hotels-The-Chail-Heights.h134501822.Hotel-Information,2026-11-23,FALSE,The Chail Heights; price as listed on page
+D21,accommodation,Cleartrip,https://www.cleartrip.com/hotels/3-star-hotels-in-chail,2026-11-23,FALSE,Hotel Ekant; price as listed on page
+D21,accommodation,Cleartrip,https://www.cleartrip.com/hotels/3-star-hotels-in-chail,2026-11-23,FALSE,Resort Extreme Village Cottages; price as listed on page
+D21,accommodation,Cleartrip,https://www.cleartrip.com/hotels/3-star-hotels-in-chail,2026-11-23,FALSE,Mountain View Resort; price as listed on page
+D21,accommodation,Cleartrip,https://www.cleartrip.com/hotels/3-star-hotels-in-chail,2026-11-23,FALSE,Hotel Chail Residency; price as listed on page
+D22,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-patnitop,2026-11-23,FALSE,Hotel Pine Heritage; price as listed on page
+D22,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-patnitop,2026-11-23,FALSE,Hotel Patnitop Heights; price as listed on page
+D22,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-patnitop,2026-11-23,FALSE,Vardaan Hotels - PatniTop; price as listed on page
+D22,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-patnitop,2026-11-23,FALSE,Hotel Subash Palace; price as listed on page
+D23,accommodation,AdaniOne,https://www.adanione.com/india-hotels/hotels-in-sanasar,2026-11-23,FALSE,PY Resorts; price as listed on page
+D24,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-srinagar,2026-11-23,FALSE,Welcome Hotel Dal Lake; price as listed on page
+D24,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-srinagar,2026-11-23,FALSE,Hotel Meerz; price as listed on page
+D24,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-srinagar,2026-11-23,FALSE,"Clarks Inn, Srinagar; price as listed on page"
+D24,accommodation,Cleartrip,https://www.cleartrip.com/hotels/hotels-in-srinagar,2026-11-23,FALSE,Hotel PACIFIC- A Boutique Hotel; price as listed on page
+D10,latitude/longitude/elevation_m,"Wikipedia: Bir, Himachal Pradesh","https://en.wikipedia.org/wiki/Bir,_Himachal_Pradesh",2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia Bir village infobox: 32.05N 76.70E (arc-minute rounded), 1,525 m. Point is Bir village, not the higher Billing launch site."
+D11,latitude/longitude/elevation_m,"Wikipedia: Palampur, Himachal Pradesh","https://en.wikipedia.org/wiki/Palampur,_Himachal_Pradesh",2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia infobox: 32.109722N 76.536641E, 1,256 m (lead text says about 1,300 m). Entered 1,220 m is 36 m lower, within tolerance."
+D12,latitude/longitude/elevation_m,"Wikipedia: Mandi, Himachal Pradesh","https://en.wikipedia.org/wiki/Mandi,_Himachal_Pradesh",2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia infobox: 31.70694N 76.93167E, 760 m (the page elsewhere says 764 m and 880 m)."
+D13,latitude/longitude/elevation_m,Wikipedia: Kullu,https://en.wikipedia.org/wiki/Kullu,2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia infobox: 31.95N 77.11E, 1,279 m."
+D14,latitude/longitude/elevation_m,"Wikipedia: Manali, Himachal Pradesh","https://en.wikipedia.org/wiki/Manali,_Himachal_Pradesh",2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia infobox: 32.243177N 77.189246E, 2,050 m."
+D15,latitude/longitude/elevation_m,Wikipedia: Kasol,https://en.wikipedia.org/wiki/Kasol,2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia infobox: 32.00972N 77.31528E, 1,580 m. Entered 1,640 m is 60 m higher, within tolerance."
+D16,latitude/longitude/elevation_m,Wikipedia: Kasauli; GeoNames 1267605,https://en.wikipedia.org/wiki/Kasauli,2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia: 30.9N 76.96E, 1,800 m. GeoNames: 30.89856N 76.96587E, about 1,858 m (SRTM/ASTER model value). Entered 1,900 m is 42-100 m higher, kept as approximate."
+D17,latitude/longitude/elevation_m,GeoNames 1256237; Shimla Municipal Corporation,https://www.geonames.org/1256237,2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Coordinates agree (GeoNames 31.10442N 77.16662E). Elevation sources conflict: GeoNames model 2,073 m, Wikipedia lead about 2,200 m, Wikipedia infobox 2,276 m, Shimla Municipal Corporation mean 2,397.59 m. Entered 2,205 m sits inside that range, kept."
+D18,latitude/longitude/elevation_m,Wikipedia: Solan,https://en.wikipedia.org/wiki/Solan,2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia infobox: 30.907985N 77.098403E, 1,550 m."
+D19,latitude/longitude/elevation_m,NativePlanet: Gushaini,https://www.nativeplanet.com/gushaini,2026-11-24,TRUE,"Checked 24-11-2026, could NOT be verified. No coordinates found for Tirthan Valley or Gushaini in any fetched source. NativePlanet gives Gushaini about 4,500 ft (about 1,370 m), 130 m below the entered 1,500 m. Values stay approximate and UNVERIFIED."
+D20,latitude/longitude/elevation_m,"Wikipedia: Kaza, Himachal Pradesh","https://en.wikipedia.org/wiki/Kaza,_Himachal_Pradesh",2026-11-24,FALSE,"Checked 24-11-2026, CHANGED (was 32.2276, 78.071, 3800 m). Wikipedia (Kaza, the Spiti headquarters) 32.22556N 78.07139E agrees with the entered point, so the point is Kaza. Elevation changed 3,800 m to 3,650 m."
+D21,latitude/longitude/elevation_m,"Wikipedia: Chail, Himachal Pradesh","https://en.wikipedia.org/wiki/Chail,_Himachal_Pradesh",2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia infobox: 30.9697N 77.1975E, 2,250 m."
+D22,latitude/longitude/elevation_m,Wikipedia: Patnitop,https://en.wikipedia.org/wiki/Patnitop,2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia infobox: 33.09028N 75.32639E, 2,024 m."
+D23,latitude/longitude/elevation_m,Wikipedia: Sanasar; Incredible India; JKTDC,https://en.wikipedia.org/wiki/Sanasar,2026-11-24,FALSE,"Checked 24-11-2026, CHANGED (was 33.07, 75.35, 2080 m). Wikipedia: 33.125N 75.260E (rounded to the arc-minute), 2,050 m. Incredible India (Ministry of Tourism) and JKTDC both say 2,050 m and JKTDC places it west of Patnitop. Entered 33.07N 75.35E was east of Patnitop and unsourced, so coordinates and elevation were replaced. Precision is only about 1-2 km."
+D24,latitude/longitude/elevation_m,Wikipedia: Srinagar; GeoNames 1255639,https://en.wikipedia.org/wiki/Srinagar,2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia infobox: 34.09N 74.79E, 1,585 m. GeoNames: 34.08333N 74.83333E, about 1,584 m."
+D25,latitude/longitude/elevation_m,Wikipedia: Pahalgam; bamwor.com,https://en.wikipedia.org/wiki/Pahalgam,2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Elevation agrees (Wikipedia 2,200 m). Longitude CONFLICT: Wikipedia infobox and latitude.to give 75.19E, bamwor.com gives 75.319E, entered 75.315E. No authoritative source settled it, so the entered value is kept and flagged."
+D26,latitude/longitude/elevation_m,Wikipedia: Anandpur Sahib,https://en.wikipedia.org/wiki/Anandpur_Sahib,2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia infobox: 31.234961N 76.498808E, 311 m."
+D27,latitude/longitude/elevation_m,Wikipedia: Chandigarh,https://en.wikipedia.org/wiki/Chandigarh,2026-11-24,FALSE,"Checked 24-11-2026, entered values kept. Wikipedia (2022 copy): 30.74N 76.79E, average elevation 321 m."
+D28,latitude/longitude/elevation_m,Wikipedia: Ranjit Sagar Dam; Punjab Irrigation Dept,https://en.wikipedia.org/wiki/Ranjit_Sagar_Dam,2026-11-24,FALSE,"Checked 24-11-2026, CHANGED (was 32.445, 75.717, 430 m). Reference point is the lake. Wikipedia and the Punjab Irrigation Department give the normal reservoir level as 527.9 m, so elevation changed 430 m to 528 m. Dam coordinates on Wikipedia (32.4425N 75.7286E) are about 1 km from the entered point, so coordinates are kept."
+D29,latitude/longitude/elevation_m,indiamapia.com; HP Eco-tourism,https://himachalecotourism.hp.gov.in/Jibhi,2026-11-24,TRUE,"Checked 24-11-2026, could NOT be verified. No reliable source. A pincode site gives 31.633N 77.350E (entered 31.5951N 77.3552E) and HP Eco-tourism says 1,900 m (entered 1,550 m); neither was corroborated, so the entered values are kept and UNVERIFIED."
+D30,latitude/longitude/elevation_m,"Wikipedia: Barot, Himachal Pradesh; HP Eco-tourism","https://en.wikipedia.org/wiki/Barot,_Himachal_Pradesh",2026-11-24,FALSE,"Checked 24-11-2026, CHANGED (was 32.0467, 76.8052, 1830 m). Wikipedia infobox: 32.03639N 76.84750E, 1,829 m (body text 1,819 m); HP Eco-tourism 1,835 m. Entered longitude was 4 km west, so latitude and longitude were replaced; elevation 1,830 m kept."
+D24,best_months,Holidify,https://www.holidify.com/places/srinagar/best-time-to-visit.html,2026-11-24,FALSE,Page-stated: April to October is the best time to visit Srinagar
+D25,best_months,Holidify,https://www.holidify.com/places/pahalgam/best-time-to-visit.html,2026-11-24,FALSE,Page-stated: The best time to visit Pahalgam is from March to November.
+D28,best_months,OYO travel guide,https://oyorooms.com/travel-guide/ranjit-sagar-dam-travel-guide,2026-11-24,FALSE,Page-stated: It is best to visit the dam during August or September when the lake is full and the scenery is at its best.
+D30,best_months,TravelTriangle Barot Valley guide,https://traveltriangle.com/blog/barot-valley/,2026-11-24,FALSE,"Left blank: best_months left blank: the only page found (TravelTriangle) says Barot 'can be visited at any time of the year except for monsoons' without naming months, and monsoon months are not stated there."
+D10-D30,destinations_clean.csv,Project,,2026-11-24,FALSE,destinations_clean.csv (raw and processed) extended from 9 to 30 rows

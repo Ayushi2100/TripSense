@@ -1,0 +1,55 @@
+﻿destination_id,column_name,source,url,date_collected,is_estimate,notes
+D01,latitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D01,longitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D01,elevation_m,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D01,road_distance_km,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D01,travel_time_hrs,Author manual entry (original source not yet specified),,02-10-2026,TRUE,Entered as H.MM; see processed/
+D01,best_months,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D02,latitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D02,longitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D02,elevation_m,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D02,road_distance_km,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D02,travel_time_hrs,Author manual entry (original source not yet specified),,02-10-2026,TRUE,Entered as H.MM; see processed/
+D02,best_months,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D03,latitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D03,longitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D03,elevation_m,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D03,road_distance_km,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D03,travel_time_hrs,Author manual entry (original source not yet specified),,02-10-2026,TRUE,Entered as H.MM; see processed/
+D03,best_months,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D04,latitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D04,longitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D04,elevation_m,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D04,road_distance_km,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D04,travel_time_hrs,Author manual entry (original source not yet specified),,02-10-2026,TRUE,Entered as H.MM; see processed/
+D04,best_months,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D05,latitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D05,longitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D05,elevation_m,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D05,road_distance_km,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D05,travel_time_hrs,Author manual entry (original source not yet specified),,02-10-2026,TRUE,Entered as H.MM; see processed/
+D05,best_months,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D06,latitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D06,longitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D06,elevation_m,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D06,road_distance_km,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D06,travel_time_hrs,Author manual entry (original source not yet specified),,02-10-2026,TRUE,Entered as H.MM; see processed/
+D06,best_months,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D07,latitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D07,longitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D07,elevation_m,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D07,road_distance_km,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D07,travel_time_hrs,Author manual entry (original source not yet specified),,02-10-2026,TRUE,Entered as H.MM; see processed/
+D07,best_months,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D08,latitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D08,longitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D08,elevation_m,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D08,road_distance_km,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D08,travel_time_hrs,Author manual entry (original source not yet specified),,02-10-2026,TRUE,Entered as H.MM; see processed/
+D08,best_months,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D09,latitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D09,longitude,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D09,elevation_m,Author manual entry (original source not yet specified),,02-10-2026,FALSE,
+D09,road_distance_km,Author manual entry (original source not yet specified),,02-10-2026,TRUE,
+D09,travel_time_hrs,Author manual entry (original source not yet specified),,02-10-2026,TRUE,Entered as H.MM; see processed/
+D09,best_months,Author manual entry (original source not yet specified),,02-10-2026,TRUE,

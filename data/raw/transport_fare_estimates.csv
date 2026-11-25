@@ -1,0 +1,12 @@
+destination_id,mode,fare_low_inr,fare_high_inr,route_note,source,source_url,date_collected,is_estimate,notes
+D01,bus,230,330,Pathankot to Dharamshala,Rome2Rio route page (search snippet),,2026-10-27,1,"Range quoted by the aggregator, not an official tariff"
+D01,taxi,850,1300,"Pathankot to Dharamshala, about 82 km by that source",Rome2Rio route page (search snippet),,2026-10-27,1,"One-way, whole car"
+D02,bus,390,550,Pathankot Cantt to McLeod Ganj,Rome2Rio route page (search snippet),,2026-10-27,1,Range quoted by the aggregator
+D02,taxi,900,1400,Pathankot to McLeod Ganj,Rome2Rio route page (search snippet),,2026-10-27,1,"One-way, whole car"
+D03,bus,100,150,"Pathankot to Dalhousie, state bus","discoverwithdheeraj.com (search snippet, March 2026)",,2026-10-27,1,"Travel blog, not an official tariff"
+D03,taxi,1200,2000,"Pathankot to Dalhousie, private taxi","discoverwithdheeraj.com (search snippet, March 2026)",,2026-10-27,1,"One-way, whole car"
+D04,bus,300,350,Bus to Dalhousie (250-300) plus onward leg to Khajjiar (about 50),indianholiday.com (search snippet),,2026-10-27,1,Sum of two legs; second leg is a rough figure
+D04,taxi,3000,3500,Pathankot to Khajjiar,indianholiday.com (search snippet),,2026-10-27,1,Likely a tour-style quote; high against the other taxi rates
+D05,bus,250,350,Pathankot to Chamba,Rome2Rio route page (search snippet),,2026-10-27,1,Range quoted by the aggregator
+D05,taxi,1200,1800,"Pathankot to Chamba, 116 km (another snippet: 1100-1600 for 104 km)",Rome2Rio route page (search snippet),,2026-10-27,1,"One-way, whole car"
+D07,bus,250,360,Pathankot to Amritsar,Rome2Rio route page (search snippet),,2026-10-27,1,Range quoted by the aggregator

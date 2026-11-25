@@ -1,0 +1,6 @@
+persona,top_3,expected_any_of,expectation_met,n_excluded
+Pilgrim family (October),"Vaishno Devi, McLeod Ganj, Amritsar",Vaishno Devi,True,0
+Nature and trek couple (May),"Dalhousie, Dharamshala, Khajjiar","Dalhousie, Khajjiar",True,0
+Culture seekers (April),"McLeod Ganj, Amritsar, Dharamshala",McLeod Ganj,True,0
+History buffs (November),"Amritsar, Jammu, Dharamshala","Amritsar, Chamba, Kangra, Jammu",True,0
+Tight budget solo (June),"Dharamshala, Dalhousie, McLeod Ganj",(no expectation),,0

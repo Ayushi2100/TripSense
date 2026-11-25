@@ -1,0 +1,33 @@
+GAPS (group g2: D16 Kasauli, D17 Shimla, D18 Solan, D19 Tirthan Valley, D20 Spiti/Kaza, D21 Chail, D30 Barot)
+
+WEATHER
+- D16 Kasauli: no usable climatology table. wikipedia Kasauli page not fetchable (not on allowlist); weather-and-climate.com and climate-data.org returned client errors; weatherapi.com history page had implausible values for a 1,900 m town (e.g. May max 39 C), so not used.
+- D18 Solan: wfy24 (WorldClim) gave only coldest/warmest/wettest-month summary; theweathernetwork page had no monthly table. No rows.
+- D19 Tirthan: only a single-month (August) page for Banjar that takes its data from Shimla; not usable. No rows.
+- D20 Spiti/Kaza: weather-and-climate.com gave only Feb/Oct precipitation and annual total; euttaranchal gave min/max text without stating they are averages or a period, and no rainfall. No rows.
+- D21 Chail: climate-data.org and weather-and-climate.com pages not fetchable. No rows.
+- D30 Barot: no Barot table. Wikipedia Climate of Himachal Pradesh has Sundar Nagar (Mandi district, about 1,000 m lower) but it is a poor proxy for Barot (1,835 m), so not recorded.
+- D17 Shimla: mean temperature and sunshine hours not given on the Wikipedia page (left blank).
+
+ATTRACTIONS
+- Entry fees blank everywhere except Dolanji Bon Monastery (free, per Himachal Tourism); official pages list no fees. GHNP fee (Rs 50/day Indians) appears only on Outlook Traveller, not entered.
+- D19 Tirthan: only 4 attractions found; two (Serolsar, Dingcha) and Jalori Pass rest on Outlook Traveller, not an official page.
+- D21 Chail: only 4 attractions; Chail Palace is an HPTDC hotel so excluded. Wikipedia Chail page not fetchable.
+- Visit times are all my estimates.
+
+ACTIVITIES
+- No activity prices found on any official page (all costs blank); durations are estimates.
+- D19 activities rely mostly on Outlook Traveller (non-official).
+
+ACCOMMODATION
+- HPTDC hotel pages (Chail Palace, Holiday Home Shimla) show no tariffs, so no named HPTDC rows.
+- D18 Solan, D21 Chail: no price page successfully read (a fetch for Chail was cut off by a rate limit; Solan adanione page not read). Zero rows.
+- Barot market figure unstable (Rs 1,509 on page vs Rs 662 in search title). Platform prices are date-specific, no ratings captured.
+
+TRANSPORTATION
+- D21 Chail: only Solan-Chail 45 km distance found; no modes, railhead or time sourced. hpshimla.nic.in access pages not read.
+- No fares or durations sourced except Kasauli (about 2 h from Chandigarh), Manali-Kaza (about 12 h; figure looks high versus other guides) and Delhi-Tirthan (10-12 h).
+- Spiti seasonal bus windows (Manali route July-Oct, Shimla route May-Oct) are as stated by Himachal Tourism; road closures not stated on that page.
+
+ROUTE CLAIMS
+- No Pathankot figures found for any destination. No Chandigarh/Delhi figures for D17, D20, D21, D30. D16 Delhi not stated.

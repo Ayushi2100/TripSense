@@ -1,0 +1,32 @@
+destination_id,column_name,source,url,date_collected,is_estimate,notes
+D17,weather,Wikipedia (Shimla climate box),https://en.wikipedia.org/wiki/Shimla,2026-11-22,FALSE,1991-2020 normals; mean temperature not given.
+D16,attractions,Incredible India / Himachal Tourism / District Solan,https://www.incredibleindia.gov.in/en/himachal-pradesh/kasauli,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D16,activities,Incredible India / Himachal Tourism,https://www.incredibleindia.gov.in/en/himachal-pradesh/kasauli,2026-11-22,TRUE,Durations are estimates; costs blank.
+D16,transportation,Incredible India,https://www.incredibleindia.gov.in/en/himachal-pradesh/kasauli,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D17,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/shimla/,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D17,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/shimla/,2026-11-22,TRUE,Durations are estimates; costs blank.
+D17,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/shimla/,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D18,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D18,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,TRUE,Durations are estimates; costs blank.
+D18,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D19,attractions,Incredible India / Outlook Traveller,https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu/great-himalayan-national-park,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D19,activities,Outlook Traveller / Incredible India,https://www.outlookindia.com/traveller/ot-getaway-guides/tirthan-valley-blessed-nature,2026-11-22,TRUE,Durations are estimates; costs blank.
+D19,transportation,Great Himalayan National Park official site,https://greathimalayannationalpark.org/?p=43,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D20,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/spiti-valley/,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D20,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/spiti-valley/,2026-11-22,TRUE,Durations are estimates; costs blank.
+D20,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/spiti-valley/,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D21,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D21,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,TRUE,Durations are estimates; costs blank.
+D21,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/solan/,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D30,attractions,HP Ecotourism / District Mandi,https://himachalecotourism.hp.gov.in/Barot,2026-11-22,TRUE,Visit times are estimates; fees blank unless official.
+D30,activities,District Mandi (NIC),https://hpmandi.nic.in/?p=26287,2026-11-22,TRUE,Durations are estimates; costs blank.
+D30,transportation,District Mandi (NIC),https://hpmandi.nic.in/?p=26287,2026-11-22,FALSE,Distances/times as stated on page; no fares.
+D17,accommodation,ixigo,https://www.ixigo.com/hotels/budget-hotels-in-shimla,2026-11-22,FALSE,Platform listing snapshot / market-level figure; date dependent.
+D20,accommodation,ixigo,https://www.ixigo.com/hotels/hotels-in-kaza,2026-11-22,FALSE,Platform listing snapshot / market-level figure; date dependent.
+D30,accommodation,Expedia India,https://www.Expedia.co.in/Barot-Hotels.d553248635964830675.Travel-Guide-Hotels,2026-11-22,FALSE,Platform listing snapshot / market-level figure; date dependent.
+D19,accommodation,Hotels.com,https://in.hotels.com/de12479594/hotels-in-gushaini-india,2026-11-22,FALSE,Platform listing snapshot / market-level figure; date dependent.
+D16,accommodation,ixigo,https://www.ixigo.com/hotels/5-star-hotels-in-kasauli,2026-11-22,FALSE,Platform listing snapshot / market-level figure; date dependent.
+D16,route_claims,see source_url,https://www.incredibleindia.gov.in/en/himachal-pradesh/kasauli,2026-11-22,FALSE,Stated distance/time only.
+D18,route_claims,see source_url,https://himachaltourism.gov.in/destination/solan/,2026-11-22,FALSE,Stated distance/time only.
+D18,route_claims,see source_url,https://himachaltourism.gov.in/destination/solan/,2026-11-22,FALSE,Stated distance/time only.
+D19,route_claims,see source_url,https://greathimalayannationalpark.org/?p=43,2026-11-22,FALSE,Stated distance/time only.

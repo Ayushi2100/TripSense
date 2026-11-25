@@ -1,0 +1,22 @@
+﻿source_id,destination_id,source,source_url
+AS001,D01,Himachal Tourism,https://himachaltourism.gov.in/destination/dharamshala/
+AS002,D01,Himachal Tourism / District Kangra,https://hpkangra.nic.in/adventures/
+AS003,D02,Himachal Tourism,https://himachaltourism.gov.in/destination/dharamshala/
+AS004,D02,Himachal Tourism,https://himachaltourism.gov.in/destination/monasteries/
+AS005,D02,District Kangra / Himachal Tourism,https://hpkangra.nic.in/adventures/
+AS006,D03,Himachal Tourism,https://himachaltourism.gov.in/destination/dalhousie/
+AS007,D04,Himachal Tourism,https://himachaltourism.gov.in/destination/chamba/
+AS008,D04,Himachal Tourism,https://himachaltourism.gov.in/destination/dalhousie/
+AS009,D05,Himachal Tourism,https://himachaltourism.gov.in/destination/chamba/
+AS010,D06,District Kangra,https://hpkangra.nic.in/pong-dam/
+AS011,D06,District Kangra,https://hpkangra.nic.in/tourist-place/pong-lake-wildlife-sanctuary/
+AS012,D07,District Amritsar,https://amritsar.nic.in/heritage-walk/
+AS013,D07,District Amritsar,https://amritsar.nic.in/tourist-place/wagah-border/
+AS014,D07,District Amritsar,https://amritsar.nic.in/tourist-places/
+AS015,D08,Directorate of Tourism Jammu,https://jammutourism.jk.gov.in/exploreJammu-Golf-Tourism.html
+AS016,D08,Directorate of Tourism Jammu,https://jammutourism.jk.gov.in/exploreJammu-Jammu-City.html
+AS017,D08,Directorate of Tourism Jammu,https://jammutourism.jk.gov.in/exploreJammu-Water-Bodies.html
+AS018,D09,Shri Mata Vaishno Devi Shrine Board,https://www.maavaishnodevi.org/blog/introduction
+AS019,D09,Shri Mata Vaishno Devi Shrine Board,https://www.maavaishnodevi.org/blog/yatra-registration
+AS020,D09,Shri Mata Vaishno Devi Shrine Board,https://www.maavaishnodevi.org/causes/travel
+AS021,D09,Shri Mata Vaishno Devi Shrine Board,https://www.maavaishnodevi.org/causes/yatra-registration

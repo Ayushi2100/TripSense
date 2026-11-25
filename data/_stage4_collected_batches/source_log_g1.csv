@@ -1,0 +1,28 @@
+destination_id,column_name,source,url,date_collected,is_estimate,notes
+D10,weather,nomad.watch (Open-Meteo),https://nomad.watch/cities/IN/bir-billing/climate,2026-11-22,FALSE,"modelled averages, period not stated"
+D10,attractions,Incredible India,https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra/bir-billing,2026-11-22,TRUE,visit times estimated
+D10,activities,Incredible India,https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra/bir-billing,2026-11-22,TRUE,durations estimated
+D10,transportation,Incredible India,https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra/bir-billing,2026-11-22,FALSE,
+D11,weather,Wikipedia,"https://en.wikipedia.org/wiki/Palampur,_Himachal_Pradesh",2026-11-22,FALSE,period not stated
+D11,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/palampur/,2026-11-22,TRUE,visit times estimated
+D11,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/palampur/,2026-11-22,TRUE,durations estimated
+D11,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/palampur/,2026-11-22,FALSE,
+D12,weather,Wikipedia (IMD 1991-2020),"https://en.wikipedia.org/wiki/Mandi,_Himachal_Pradesh",2026-11-22,FALSE,
+D12,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/mandi/,2026-11-22,TRUE,visit times estimated
+D12,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/mandi/,2026-11-22,TRUE,durations estimated
+D12,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/mandi/,2026-11-22,FALSE,
+D13,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,visit times estimated
+D13,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,durations estimated
+D13,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,FALSE,
+D14,weather,climatestotravel.com,https://climatestotravel.com/climate/india/manali,2026-11-22,FALSE,
+D14,attractions,Himachal Tourism,https://himachaltourism.gov.in/destination/manali/,2026-11-22,TRUE,visit times estimated
+D14,activities,Himachal Tourism,https://himachaltourism.gov.in/destination/manali/,2026-11-22,TRUE,durations estimated
+D14,transportation,Himachal Tourism,https://himachaltourism.gov.in/destination/manali/,2026-11-22,FALSE,
+D15,weather,Wikipedia (Climate-Data.org),https://en.wikipedia.org/wiki/Kasol,2026-11-22,FALSE,period not stated; conflicts with another Climate-Data page
+D15,attractions,Himachal Tourism / Eco-Tourism,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,visit times estimated
+D15,activities,Himachal Tourism / Wikipedia,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,durations estimated
+D15,transportation,Wikipedia,https://en.wikipedia.org/wiki/Kasol,2026-11-22,FALSE,
+D29,attractions,Himachal Tourism / MakeMyTrip,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,visit times estimated
+D29,activities,Himachal Tourism / MakeMyTrip,https://himachaltourism.gov.in/destination/kullu-2/,2026-11-22,TRUE,durations estimated
+D29,accommodation,MakeMyTrip travel guide,https://www.makemytrip.com/tripideas/places-to-visit-in-jibhi,2026-11-22,FALSE,starting prices only
+D29,transportation,Great Himalayan National Park site,https://greathimalayannationalpark.org/?p=43,2026-11-22,FALSE,"gateway figures, not Jibhi itself"

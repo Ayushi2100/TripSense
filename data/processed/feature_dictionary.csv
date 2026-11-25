@@ -1,0 +1,29 @@
+feature,meaning,raw_or_derived,source_tables,method,limitation
+destination_id,Join key,assigned,destinations.csv,D01-D30,
+road_distance_km,"Road distance from the selected origin (saved file: Pathankot, O01)",raw / estimate (see route_quality),route_data.csv,Looked up by origin and destination; apply_origin() swaps the origin,Most routes are estimates; see route_quality. For D01-D09 from Pathankot three sources conflict (distance_conflict_flag)
+road_km_entered / road_km_clean_file / road_km_transport_table,"Each source's value, kept side by side",raw,see column,Vaishno Devi transport value = sum of Pathankot-Jammu and Jammu-Katra legs,
+distance_conflict_flag,1 if sources differ by more than 10% of the smallest,derived,the three distance columns,(max-min)/min > 0.10,Tolerance is an assumption
+travel_time_hrs,"Drive time from the selected origin, decimal hours","raw (estimate), converted",route_data.csv (Pathankot D01-D09 entered as H.MM),H.MM -> hours + minutes/60; a digit-only minute = tens of minutes,Kangra's 3.7 from Pathankot is not a valid H.MM value and is left blank; other drive times are estimates
+straight_km,Straight-line distance from the selected origin,derived,"origin_locations.csv, destinations.csv",Haversine between origin and destination coordinates,Coordinates are approximate and not yet sourced
+detour_ratio,Road distance divided by straight-line distance,derived,"road_distance_km, straight_km",Below 1 is impossible and signals an error,
+avg_speed_kmh,Road distance divided by drive time,derived,"road_distance_km, travel_time_hrs",,Blank where time is blank
+elevation_m,Elevation of the reference point,raw,destinations.csv,,Source not yet logged; D10-D30 are approximate
+route_quality,How trustworthy the origin-destination route values are,label,route_data.csv,author_entered | source_reported | estimated | not_applicable,estimated = not verified against a route engine
+route_hours_basis,Where the drive hours come from,label,route_data.csv,author_entered | estimated | not_available,
+route_available,False when no route value exists (e.g. Chandigarh as a destination from Chandigarh),derived,route_data.csv,,
+origin_id / origin_name,Starting location the route columns describe,assigned,origin_locations.csv,,
+road_km_from_pathankot,Road km from Pathankot whatever the selected origin,derived,route_data.csv,"Used to derive per-km fare rates, because collected fares are Pathankot-only",
+type_*,One-hot of primary_type,derived,destinations.csv,,Type labels are a project classification
+share_nature / adventure / culture / history / spiritual,Share of the destination's attractions and activities in each interest,derived,"attractions.csv, activities.csv",Each item has weight 1 split across its interests; mapping in interest_mapping.csv,"Item lists are a curated sample of 4-7 attractions and 5-6 activities per destination, not exhaustive"
+top_interest,Interest with the largest share,derived,share_* columns,,Ties resolve in the order of config.INTERESTS
+n_attractions / n_activities,Number of records collected,raw count,"attractions.csv, activities.csv",,Reflects collection coverage; do not read as destination richness
+n_items_unmapped,"Items with no interest signal (golf, leisure, pilgrimage transport)",derived,activities.csv,,
+n_comfortable_months,Months classed comfortable by the weather rule,derived,weather.csv,daytime max 15-32 C and rain < 200 mm (config.SEASON_RULES),Thresholds are assumptions; see season_rule_sensitivity.csv
+comfortable_months,Pipe-separated comfortable month numbers,derived,weather.csv,as above,
+best_months_entered,Author-entered best months,raw (estimate),destinations.csv,,Conflicts with sources for several destinations; compare with comfortable_months
+season_agreement_jaccard,Overlap of entered best months and weather-comfortable months,derived,the two month lists,|A and B| / |A or B|,"A low value means the two disagree, not which one is right"
+near_freezing_months,Months with average daily minimum <= 2 C,derived,weather.csv,avg_temp_min_c <= config.SEASON_RULES['freezing_tmin'],Town-level climate; snow depends on more than this
+weather_quality_flag,ok / proxy / inconsistent_with_neighbour,derived,weather.csv,Proxy if borrowed; inconsistent if annual rainfall differs 3x from the median of the 3 nearest destinations,Detects only gross inconsistency
+accom_n_listed / accom_n_priced,Listings recorded and listings with a price,raw count,accommodation.csv,,
+accom_median_inr / min / max,"Displayed total per night, listings with a price",derived,accommodation.csv,Median of priced listings,"Mixed hostels, hotels and homestays; one snapshot date"
+accom_reliable_flag,1 if at least 3 priced listings,derived,accom_n_priced,,Threshold is an assumption

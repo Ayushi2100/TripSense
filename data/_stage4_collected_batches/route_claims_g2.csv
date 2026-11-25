@@ -1,0 +1,5 @@
+destination_id,origin_name,stated_road_km,stated_drive_hours,source_url,quote_note
+D16,Chandigarh,60,2,https://www.incredibleindia.gov.in/en/himachal-pradesh/kasauli,"Stated ""about 60 km by road, roughly a two-hour drive"" from Chandigarh city; airport (IXC) separately given as about 65 km."
+D18,Chandigarh,67,,https://himachaltourism.gov.in/destination/solan/,Listed as distance from Solan; page gives no travel time.
+D18,Delhi,300,,https://himachaltourism.gov.in/destination/solan/,Listed as distance from Solan; page gives no travel time.
+D19,Delhi,480,10-12,https://greathimalayannationalpark.org/?p=43,"GHNP page lists Delhi about 480 km, 10-12 hrs by road to the park (Tirthan area)."

@@ -1,0 +1,16 @@
+D22/D23 weather: no Patnitop or Sanasar climatology table found; Udhampur (much lower altitude) used as proxy.
+D22-D25 accommodation: no tariff page read yet (JKTDC pages not fetched); zero rows.
+D22-D25 route_claims: no page opened stated road km/hours to Pathankot, Chandigarh or Delhi.
+D24 transportation: only railway row; Incredible India airport statement for Srinagar not used (appears wrong). D25 transportation: Incredible India page has no how-to-reach; mapsofindia fetch interrupted by rate limit.
+D22-D25 attraction entry fees: none stated on source pages.
+D25 accommodation, D26 accommodation, D27 accommodation: not yet sourced (see end of file for final status).
+D22 accommodation, D23 accommodation, D24 accommodation: no JKTDC or listing tariff page fetched; zero rows.
+D28 accommodation: none; reserve page states no accommodation available.
+D27 transportation/accommodation: official how-to-reach page is dated (old airline names); Chandigarh hotel data is only a market-range row.
+D25, D26 accommodation: D25 prices ambiguous (blank); D26 tariffs come from a May 2015 article only.
+D24, D25 route_claims: no source stated road km/hours to Pathankot, Chandigarh or Delhi (Pahalgam page gives only Srinagar, Anantnag and Jammu distances).
+D22, D23 route_claims: Jammu Tourism and Incredible India pages state no distance to Pathankot, Chandigarh or Delhi.
+D28 activities: no source describing boating/water sports; Tribune ground report says tourism there is undeveloped. Birdwatching row is inferred from reserve status (flagged).
+D26 weather is Chandigarh proxy; D28 weather is Pathankot proxy (no stated period); D22/D23 weather is Udhampur proxy (large altitude difference).
+All dest: attraction fees only for D27 (official page); others not stated. Activity costs not stated anywhere.
+D22-D28 attractions/activities for D26 Anandpur Sahib: Punjab Tourism pages gave no fees, directions.

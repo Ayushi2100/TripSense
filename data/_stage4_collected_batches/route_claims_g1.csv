@@ -1,0 +1,11 @@
+destination_id,origin_name,stated_road_km,stated_drive_hours,source_url,quote_note
+D12,Delhi,395,,"https://en.wikipedia.org/wiki/Mandi,_Himachal_Pradesh",Wikipedia intro states 395 km from Delhi
+D12,Delhi,475,12,"https://en.wikipedia.org/wiki/Mandi,_Himachal_Pradesh","Wikipedia travel section: about 475 km, roughly 12 hours by bus"
+D12,Chandigarh,163,,"https://en.wikipedia.org/wiki/Mandi,_Himachal_Pradesh",Wikipedia intro states 163 km
+D12,Chandigarh,200,6,"https://en.wikipedia.org/wiki/Mandi,_Himachal_Pradesh","Wikipedia travel section: 200 km, about 6 hours by bus (about 5 hours by taxi)"
+D13,Delhi,495,,https://himachaltourism.gov.in/destination/kullu-2/,Himachal Tourism distances from Kullu list Delhi 495 km
+D13,Delhi,497,,https://hpkullu.nic.in/?p=24211,District page: valley lies 497 km from the capital
+D13,Chandigarh,260,,https://himachaltourism.gov.in/destination/kullu-2/,Himachal Tourism distances from Kullu list Chandigarh 260 km
+D14,Delhi,530,,https://himachaltourism.gov.in/destination/manali/,Distance table lists Delhi 530 km
+D14,Delhi,550,,https://himachaltourism.gov.in/destination/manali/,Transport text gives Delhi road journey about 550 km
+D14,Chandigarh,300,,https://himachaltourism.gov.in/destination/manali/,Distance table lists Chandigarh 300 km

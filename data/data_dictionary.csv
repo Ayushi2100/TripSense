@@ -1,0 +1,17 @@
+column_name,type,unit,raw_or_derived,description,allowed_values_or_format,status
+destination_id,string,-,assigned key,Unique join key used by all CSVs,D01-D10,filled
+destination,string,-,raw,Canonical display name,"Title Case, no trailing spaces",filled
+state,categorical,-,raw,State/UT of the reference point,Himachal Pradesh | Punjab | Jammu & Kashmir,filled
+reference_point,string,-,defined by project,What coordinates and distance refer to,free text,"filled (proposed, confirm)"
+latitude,float,decimal degrees,raw,Latitude of reference point,-90..90,to collect
+longitude,float,decimal degrees,raw,Longitude of reference point,-180..180,to collect
+elevation_m,int,metres,raw,Elevation above sea level at reference point,> 0,to collect
+road_distance_km,float,km,raw (map-measured),Driving distance from Pathankot to reference point,> 0,to collect
+travel_time_hrs,float,hours,raw (estimate),"Typical driving time, decimal hours (2.5 not '2-3 hrs')",> 0,to collect
+primary_type,categorical,-,classification by documented rule,Coarse destination category,hill station | pilgrimage | city | lake/reservoir | historic town,"filled (proposed, confirm)"
+rating,float,stars (0-5),raw,"Rating from ONE platform, collected same day for all",0-5,to collect
+rating_count,int,reviews,raw,Number of ratings behind the rating,> 0,to collect
+recommended_days_min,int,days,raw (source-stated),Lower bound of typical stay,1-7,to collect
+recommended_days_max,int,days,raw (source-stated),Upper bound of typical stay,>= min,to collect
+best_months,string,month numbers,raw (source-stated),Pipe-separated peak-season months,e.g. 3|4|5|9|10,to collect
+data_notes,string,-,metadata,"Caveats, e.g. what distance was measured to",free text,as needed

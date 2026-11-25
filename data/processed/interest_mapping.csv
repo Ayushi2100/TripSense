@@ -1,0 +1,32 @@
+source,token,interests,note
+attractions.attraction_type,nature,nature,
+attractions.attraction_type,adventure,adventure,
+attractions.attraction_type,culture,culture,
+attractions.attraction_type,history,history,
+attractions.attraction_type,spiritual,spiritual,
+activities.activity_type,nature,nature,
+activities.activity_type,nature walk,nature,
+activities.activity_type,birdwatching,nature,
+activities.activity_type,wildlife,nature,
+activities.activity_type,trekking,adventure,
+activities.activity_type,hiking,adventure,
+activities.activity_type,paragliding,adventure,
+activities.activity_type,cycling,adventure,
+activities.activity_type,water activity,adventure,
+activities.activity_type,water sports,adventure,
+activities.activity_type,culture,culture,
+activities.activity_type,cultural,culture,
+activities.activity_type,shopping,culture,
+activities.activity_type,ceremony,culture,
+activities.activity_type,museum,culture,
+activities.activity_type,heritage,history,
+activities.activity_type,history,history,
+activities.activity_type,spiritual,spiritual,
+activities.activity_type,pilgrimage,spiritual,
+activities.activity_type,ritual,spiritual,
+activities.activity_type,boating,,no interest signal on its own
+activities.activity_type,walking,,no interest signal on its own
+activities.activity_type,leisure,,no interest signal on its own
+activities.activity_type,golf,,no interest signal on its own
+activities.activity_type,pilgrimage transport,,"logistics, not an interest"
+activities.activity_type,trekking (with 'pilgrimage'),,dropped: pilgrimage treks are not counted as adventure

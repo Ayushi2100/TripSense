@@ -1,0 +1,10 @@
+D13 Kullu weather: no monthly climatology table fetchable (climate-data.org blocked; hpkullu.nic.in only seasons; IMD cli_kullu.pdf only November 10-day values; wfy24 only annual extremes).
+D29 Jibhi weather: no table found (tourmyholiday qualitative only; Jubbal page is a different town and has no table).
+D10, D11, D12, D13, D14, D15 accommodation: no tariff read. HPTDC hotel pages (Neugal Palampur, Rohtang Manalsu and Hadimba Cottages Manali) show no price. MakeMyTrip pages for these places could not be fetched (rate limit interrupted).
+D29 accommodation: only guide-page "Onwards" prices; no date-specific rate.
+D29 route claims: no Jibhi-to-Delhi/Chandigarh/Pathankot figures; GHNP page gives Delhi 480 km to Aut only (recorded in transportation as proxy).
+D10, D11, D15 route claims: no Pathankot/Chandigarh/Delhi distances stated on pages opened.
+All entry fees and activity costs: none stated on official pages (Rohtang permit fee not stated).
+Kasol weather: Wikipedia table (Climate-Data) conflicts with fr.climate-data page (sub-zero temps) and nomad.watch; only Wikipedia used.
+Palampur weather: Wikipedia table has no stated period and some odd values.
+Entry fees for Bir attractions: attraction fee values are blank by design; visit times are estimates.

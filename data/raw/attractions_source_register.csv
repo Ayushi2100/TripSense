@@ -1,0 +1,20 @@
+﻿destination_id,source,url,use,date_collected,is_estimate
+D01,Himachal Tourism,https://himachaltourism.gov.in/destination/dharamshala/,Official destination page used to verify Dharamshala attractions.,02-10-2026,FALSE
+D02,Himachal Tourism,https://himachaltourism.gov.in/destination/monasteries/,Official Himachal Tourism monastery page used for McLeod Ganj Buddhist/cultural sites.,02-10-2026,FALSE
+D03,Himachal Tourism,https://himachaltourism.gov.in/destination/dalhousie/,Official Dalhousie destination page used for listed attractions.,02-10-2026,FALSE
+D04,District Chamba / Himachal Government,https://hpchamba.nic.in/tourist-place/khajjiar/,Official district page used for Khajjiar landscape and hiking information.,02-10-2026,FALSE
+D04,Himachal Tourism,https://himachaltourism.gov.in/destination/sanctuaries/,Official state tourism page used for Kalatop-Khajjiar Sanctuary.,02-10-2026,FALSE
+D05,Himachal Tourism,https://himachaltourism.gov.in/destination/chamba/,Official Chamba destination page used for Chamba attractions.,02-10-2026,FALSE
+D05,Himachal Tourism,https://himachaltourism.gov.in/destination/architectural/,Official architectural heritage page used for Rang Mahal.,02-10-2026,FALSE
+D05,District Chamba / Himachal Government,https://hpchamba.nic.in/places-of-interest/,Official district page used for Sui Mata and Chamba heritage sites.,02-10-2026,FALSE
+D06,Himachal Tourism,https://himachaltourism.gov.in/destination/kangra/,"Official Kangra destination page used for forts, temples, Masroor, Pong wetland and Pragpur.",02-10-2026,FALSE
+D07,District Amritsar / Government of Punjab,https://amritsar.nic.in/tourist-places/,Official district tourist-place listing used for Amritsar attractions.,02-10-2026,FALSE
+D07,District Amritsar / Government of Punjab,https://amritsar.nic.in/places-of-interest/,Official district places-of-interest page used for Golden Temple and Wagah Border.,02-10-2026,FALSE
+D07,District Amritsar / Government of Punjab,https://amritsar.nic.in/tourist-place/durgianatemple/,Official district page used for Durgiana Temple.,02-10-2026,FALSE
+D08,District Jammu / Government of J&K,https://jammu.nic.in/tourism/tourist-places/,Official district tourist-place listing used for Jammu attractions.,02-10-2026,FALSE
+D08,District Jammu / Government of J&K,https://jammu.nic.in/tourist-place/bahu-fort-jammu/,Official district page used for Bahu Fort and Bahu Temple.,02-10-2026,FALSE
+D08,District Jammu / Government of J&K,https://jammu.nic.in/tourist-place/amar-mahal-jammu/,Official district page used for Amar Mahal Museum.,02-10-2026,FALSE
+D08,District Jammu / Government of J&K,https://jammu.nic.in/places-of-interest/,Official district places-of-interest page used for Raghunath Temple.,02-10-2026,FALSE
+D09,Shri Mata Vaishno Devi Shrine Board,https://www.maavaishnodevi.org/about-shrine,"Official Shrine Board source for Banganga, Charan Paduka, Ardhkuwari, Bhawan and Bhairon route context.",02-10-2026,FALSE
+D09,Shri Mata Vaishno Devi Shrine Board,https://www.maavaishnodevi.org/blog/bhawan,Official Shrine Board Bhawan page used for the Holy Cave/Bhawan description.,02-10-2026,FALSE
+D09,Shri Mata Vaishno Devi Shrine Board,https://www.maavaishnodevi.org/causes/travel,Official Shrine Board travel page used for Sanjichhat/Bhairon travel facilities.,02-10-2026,FALSE
